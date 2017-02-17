@@ -1,5 +1,5 @@
-def hello():
-    for i in 300:
+def hello(a):
+    for n in range(a):
         print ("hello world")
 
-hello()
+hello(300)
