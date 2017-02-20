@@ -25,3 +25,5 @@ def world():
         if name == "your name":
             break
     print ("thank you")
+
+world()
